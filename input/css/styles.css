@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.gallery img {
+    width: 400px;
+}
+
+
+
+input {
+    margin-bottom: 10px;
+    display: block;
+}
+
+.error {
+    border: 1px solid red;
+}
+
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+    margin-left: 821px;
+    padding: 10px;
+}
